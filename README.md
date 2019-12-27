@@ -1,6 +1,6 @@
 # Cisco UCSPE Power Control
 
-The Microsoft PowerShell scripts listed in this repository enable automation for the powered state of the Cisco UCS Platform Emulator (UCSPE). This can be useful for scenarios that require rebooting or shutting down the UCSPE for maintenance.
+The Microsoft PowerShell scripts provided in this repository enable automation for the powered state of the Cisco UCS Platform Emulator (UCSPE). This can be useful for scenarios that require rebooting or shutting down the UCSPE for maintenance.
 
 ## Prerequisites:
 1. Microsoft Windows PowerShell 3 or above.
