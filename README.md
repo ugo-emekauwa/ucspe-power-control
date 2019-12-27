@@ -44,6 +44,17 @@ The Microsoft PowerShell scripts listed in this repository enable automation for
 The -IP parameter is mandatory and specifies the IP address of the targeted UCSPE VM. A resolvable hostname for the targeted UCSPE will also be accepted for the value.
 
 
+## Use Cases:
+A modified version of the script in this repository is a part of the automation used to support and enable the following Cisco Data Center product demonstrations on Cisco dCloud:
+
+1. _Cisco UCS Management with Intersight v1_
+2. _Cisco UCS Central 2.0 v1_
+3. _Cisco UCS Central 2.0 Lab v1_
+4. _Cisco UCS Programmability and Automation Lab v1_
+
+Cisco dCloud is available at [https://dcloud.cisco.com](https://dcloud.cisco.com), where product demonstrations and labs can be found in the Catalog.
+
+
 ## Author:
 Ugo Emekauwa
 
