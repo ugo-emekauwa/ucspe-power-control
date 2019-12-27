@@ -14,7 +14,7 @@ The Microsoft PowerShell scripts listed in this repository enable automation for
 
 
 ## How to Use:
-Available UCSPE Power Control Operations
+###### Available UCSPE Power Control Operations
 
 ### Performing a UCSPE Reboot
 To perform an automated reboot of a targeted UCSPE, here is an example of command usage for the **ucspe-vm-reboot.ps1** script using the mandatory parameters:
