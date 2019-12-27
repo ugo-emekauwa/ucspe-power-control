@@ -41,7 +41,7 @@ The Microsoft PowerShell scripts listed in this repository enable automation for
 
 ## Parameters:
 #### `-IP`
-The **-IP** parameter is mandatory and specifies the IP address of the targeted UCSPE VM. A resolvable hostname for the targeted UCSPE will also be accepted for the value.
+The **IP** parameter is mandatory and specifies the IP address of the targeted UCSPE VM. A resolvable hostname for the targeted UCSPE will also be accepted for the value.
 
 
 ## Use Cases:
