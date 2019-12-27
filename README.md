@@ -16,27 +16,27 @@ The Microsoft PowerShell scripts listed in this repository enable automation for
 ## How to Use:
 ###### Available UCSPE Power Control Operations
 
-### - Performing a UCSPE Reboot
-To perform an automated reboot of a targeted UCSPE, here is an example of command usage for the **ucspe-vm-reboot.ps1** script using the mandatory parameters:
-```powershell
-ucspe-vm-reboot.ps1 -IP 192.168.1.7
-```
+- ### Performing a UCSPE Reboot
+  To perform an automated reboot of a targeted UCSPE, here is an example of command usage for the **ucspe-vm-reboot.ps1** script using the mandatory parameters:
+  ```powershell
+  ucspe-vm-reboot.ps1 -IP 192.168.1.7
+  ```
 
-The **ucspe-vm-reboot.ps1** script will also accept positional arguments for the mandatory parameters. Here is an example:
-```powershell
-ucspe-vm-reboot.ps1 192.168.1.7
-```
+  The **ucspe-vm-reboot.ps1** script will also accept positional arguments for the mandatory parameters. Here is an example:
+  ```powershell
+  ucspe-vm-reboot.ps1 192.168.1.7
+  ```
 
-### - Performing a UCSPE Shutdown
-To perform an automated reboot of a targeted UCSPE, here is an example of command usage for the **ucspe-vm-shutdown.ps1** script using the mandatory parameters:
-```powershell
-ucspe-vm-shutdown.ps1 -IP 192.168.1.7
-```
+- ### Performing a UCSPE Shutdown
+  To perform an automated reboot of a targeted UCSPE, here is an example of command usage for the **ucspe-vm-shutdown.ps1** script using the mandatory parameters:
+  ```powershell
+  ucspe-vm-shutdown.ps1 -IP 192.168.1.7
+  ```
 
-The **ucspe-vm-shutdown.ps1** script will also accept positional arguments for the mandatory parameters. Here is an example:
-```powershell
-ucspe-vm-shutdown.ps1 192.168.1.7
-```
+  The **ucspe-vm-shutdown.ps1** script will also accept positional arguments for the mandatory parameters. Here is an example:
+  ```powershell
+  ucspe-vm-shutdown.ps1 192.168.1.7
+  ```
 
 
 ## Parameters:
