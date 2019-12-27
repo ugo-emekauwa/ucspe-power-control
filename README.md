@@ -22,7 +22,7 @@ The Microsoft PowerShell scripts listed in this repository enable automation for
   ucspe-vm-reboot.ps1 -IP 192.168.1.7
   ```
 
-  The **ucspe-vm-reboot.ps1** script will also accept positional arguments for the mandatory parameters. Here is an example:
+  The **ucspe-vm-reboot.ps1** script will also accept just the positional values for the mandatory parameters. Here is an example:
   ```powershell
   ucspe-vm-reboot.ps1 192.168.1.7
   ```
@@ -33,7 +33,7 @@ The Microsoft PowerShell scripts listed in this repository enable automation for
   ucspe-vm-shutdown.ps1 -IP 192.168.1.7
   ```
 
-  The **ucspe-vm-shutdown.ps1** script will also accept positional arguments for the mandatory parameters. Here is an example:
+  The **ucspe-vm-shutdown.ps1** script will also accept just the positional values for the mandatory parameters. Here is an example:
   ```powershell
   ucspe-vm-shutdown.ps1 192.168.1.7
   ```
