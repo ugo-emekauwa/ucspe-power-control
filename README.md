@@ -17,7 +17,7 @@ The Microsoft PowerShell scripts provided in this repository enable automation f
 ###### Available UCSPE Power Control Operations
 
 - ### Performing a UCSPE Reboot
-  The **ucspe-vm-reboot.ps1** script provides the ability to perform an automated reboot of a targeted UCSPE. The following is an example of the command usage and mandatory parameters, in which the targeted UCSPE for a reboot has an IP address of 192.168.1.7:
+  The **ucspe-vm-reboot.ps1** script provides the ability to perform an automated reboot of a targeted UCSPE. The following is an example of the command usage and mandatory parameters, in which the targeted UCSPE for a reboot has an IP address of **192.168.1.7**:
   ```powershell
   ucspe-vm-reboot.ps1 -IP 192.168.1.7
   ```
@@ -28,7 +28,7 @@ The Microsoft PowerShell scripts provided in this repository enable automation f
   ```
 
 - ### Performing a UCSPE Shutdown
-  The **ucspe-vm-shutdown.ps1** script provides the ability to perform an automated shutdown of a targeted UCSPE. The following is an example of the command usage and mandatory parameters, in which the targeted UCSPE for a shutdown has an IP address of 192.168.1.7:
+  The **ucspe-vm-shutdown.ps1** script provides the ability to perform an automated shutdown of a targeted UCSPE. The following is an example of the command usage and mandatory parameters, in which the targeted UCSPE for a shutdown has an IP address of **192.168.1.7**:
   ```powershell
   ucspe-vm-shutdown.ps1 -IP 192.168.1.7
   ```
